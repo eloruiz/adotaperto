@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  /* Verde-sálvia */
+  --color-sage-50: #f4f6ef;
+  --color-sage-100: #e9eddd;
+  --color-sage-200: #d6dec4;
+  --color-sage-300: #bccaa4;
+  --color-sage-400: #9db078;
+  --color-sage-500: #80945c;
+  --color-sage-600: #657747;
+  --color-sage-700: #505f3a;
+  --color-sage-800: #424e31;
+  --color-sage-900: #37422a;
+
+  /* Creme / areia */
+  --color-cream: #faf6ec;
+  --color-sand: #f1e9d8;
+  --color-sand-200: #e7dcc6;
+
+  /* Coral */
+  --color-coral-50: #fff2ec;
+  --color-coral-100: #ffe3d6;
+  --color-coral-200: #ffc9b2;
+  --color-coral-300: #ffa582;
+  --color-coral-400: #ff7f52;
+  --color-coral-500: #f9683f;
+  --color-coral-600: #ee5535;
+  --color-coral-700: #c94327;
+
+  --font-sans: "Plus Jakarta Sans", system-ui, "Segoe UI", Roboto, sans-serif;
+
+  --shadow-soft: 0 12px 32px -12px rgb(55 66 42 / 0.18);
+  --shadow-card: 0 4px 16px -6px rgb(55 66 42 / 0.12);
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-cream);
+}
+
+.leaflet-container {
+  font-family: inherit;
+}
