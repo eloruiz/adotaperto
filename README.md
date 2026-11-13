@@ -6,6 +6,8 @@ AdotaPerto é uma aplicação web que conecta pessoas interessadas em adoção a
 
 > **Protótipo com dados fictícios** — organizações, animais, endereços, telefones e histórias são inventados para demonstração. Nenhum contato é real.
 
+> Desenvolvido por **elosruiz** com o grupo do Hack Brasil para testar a IA Devin.
+
 ## Funcionalidades
 
 | Área | Descrição |
