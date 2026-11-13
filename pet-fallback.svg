@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-label="Ilustração de pet">
+  <rect width="400" height="320" fill="#e9eddd"/>
+  <circle cx="200" cy="150" r="70" fill="#bccaa4"/>
+  <g fill="#657747">
+    <ellipse cx="200" cy="185" rx="34" ry="26"/>
+    <circle cx="172" cy="140" r="14"/>
+    <circle cx="228" cy="140" r="14"/>
+    <circle cx="200" cy="215" r="10"/>
+  </g>
+  <text x="200" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#505f3a">Foto indisponível</text>
+</svg>
